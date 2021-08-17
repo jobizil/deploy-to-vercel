@@ -1,1 +1,1 @@
-CLone this repo to follow tutorial.
+Clone this repo to follow tutorial.
